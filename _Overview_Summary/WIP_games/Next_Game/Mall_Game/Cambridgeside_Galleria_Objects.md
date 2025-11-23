@@ -162,9 +162,51 @@ A motion-activated trash receptacle with printed informational and manufacturer 
 * Manufacturer website and phone number are printed on both panels
 * All manufacturer references use title case except the word "powered" on the lower panel, which is lowercase
 
+**Location Notes**
+
+* This ecotrash unit is built into a wood‑paneled trash station inside the **CanalSide FOOD + DRINK** area on Level 1, where it sits directly beside the matching ecotrash recycling bin; this is the only place in the mall where the trash and recycling ecotrash units appear together as a pair.
+
 ---
 
-## ITEM 7 — Indoor Game Area (Cornhole & Connect Four)
+## ITEM 7 — Ecotrash Motion-Activated Recycling Bin ("recycle.")
+
+**High-Level Description**
+A branded, motion-activated recycling receptacle located inside the mall, similar in construction to the earlier trash-only ecotrash unit but with blue recycling graphics.
+
+**Full Transcribed Text (Upper Blue Panel)**
+
+> Original ecotrash®
+> Compared to ordinary trash cans, Original ecotrash uses 80% fewer bags.
+> recycle.
+
+* The word **"recycle."** is in large white lowercase letters with a period.
+* Below the word is a dark rectangular sensor area (no text on the sensor itself in this photo).
+
+**Lower Black Panel Text**
+
+> MOTION ACTIVATED DOOR
+> OPENS AUTOMATICALLY
+
+In the lower-right corner of the black panel is the manufacturer information (partially visible but consistent with the trash unit):
+
+> powered by
+> COMPACTION TECHNOLOGIES, Inc.
+> compactiontechnologies.com
+> 877-860-6900
+
+**Notable Details**
+
+* Upper panel is a solid bright blue rectangle; lower panel is black.
+* The bin housing is dark gray/black metal, integrated into a wood-toned surround.
+* A simple line-art icon on the lower panel shows a trash can and bottles on a counter with the word **"READY"** inside a small rectangle.
+
+**Location Notes**
+
+* This recycling unit is directly paired with the trash‑only ecotrash bin in the **CanalSide FOOD + DRINK** hall on Level 1, both built into the same wood‑toned surround near the main seating zone; this food‑court station is the only location in the mall where the ecotrash recycling and trash units are side by side.
+
+---
+
+## ITEM 8 — Indoor Game Area (Cornhole & Connect Four)
 
 **High-Level Description**
 A recreational zone within the CanalSide dining space featuring multiple oversized games.
@@ -195,7 +237,7 @@ A recreational zone within the CanalSide dining space featuring multiple oversiz
 
 ---
 
-## ITEM 8 — Oversized Jenga Stack
+## ITEM 9 — Oversized Jenga Stack
 
 **High-Level Description**
 A tall stack of oversized wooden Jenga-style blocks located within the game area.
@@ -220,7 +262,7 @@ A tall stack of oversized wooden Jenga-style blocks located within the game area
 
 ---
 
-## ITEM 9 — C-SIDE Bar Area and Screens
+## ITEM 10 — C-SIDE Bar Area and Screens
 
 **High-Level Description**
 A central bar area within the CanalSide dining space featuring multiple mounted screens and wraparound signage.
@@ -249,7 +291,7 @@ A central bar area within the CanalSide dining space featuring multiple mounted 
 
 ---
 
-## ITEM 10 — C-SIDE Seating Area (Alternate View)
+## ITEM 11 — C-SIDE Seating Area (Alternate View)
 
 **High-Level Description**
 A secondary perspective of the C-SIDE bar and surrounding seating area with tabletop signage.
@@ -283,7 +325,7 @@ More entries will be added as new images are provided. Let me know when you're r
 
 ---
 
-## ITEM 11 — Boat Cruise Ticket Booth (Exterior)
+## ITEM 12 — Boat Cruise Ticket Booth (Exterior)
 
 **High-Level Description**
 A small freestanding kiosk located outdoors near the canal, used for Charles River Boat Company ticketing.
@@ -304,7 +346,7 @@ A small freestanding kiosk located outdoors near the canal, used for Charles Riv
 
 ---
 
-## ITEM 12 — "Dock + Dine" Window Poster
+## ITEM 13 — "Dock + Dine" Window Poster
 
 **High-Level Description**
 Printed promotional poster displayed inside the ticket booth window.
@@ -360,7 +402,7 @@ Printed promotional poster displayed inside the ticket booth window.
 
 ---
 
-## ITEM 13 — Yelp & Social Media Stickers
+## ITEM 14 — Yelp & Social Media Stickers
 
 **High-Level Description**
 Small decals placed on the booth window promoting online platforms.
@@ -384,7 +426,7 @@ Small decals placed on the booth window promoting online platforms.
 
 ---
 
-## ITEM 14 — Cookies & Carols / Holiday Cruise Sign
+## ITEM 15 — Cookies & Carols / Holiday Cruise Sign
 
 **High-Level Description**
 Freestanding two-pane sign advertising seasonal river cruise events.
@@ -444,7 +486,7 @@ The lower red panel contains two event sections.
 
 ---
 
-## ITEM 15 — Boat Cruises Information Board
+## ITEM 16 — Boat Cruises Information Board
 
 **High-Level Description**
 Tall rectangular outdoor sign listing various Charles River Boat Company cruise options.
@@ -544,7 +586,7 @@ Tall rectangular outdoor sign listing various Charles River Boat Company cruise 
 
 ---
 
-## ITEM 16 — Private Event Vessel Sign
+## ITEM 17 — Private Event Vessel Sign
 
 **High-Level Description**
 Mounted rectangular sign promoting private charter options on Charles River Boat Company vessels.
@@ -589,7 +631,7 @@ Mounted rectangular sign promoting private charter options on Charles River Boat
 
 ---
 
-## ITEM 17 — Park Regulations & No Bike Parking Signs
+## ITEM 18 — Park Regulations & No Bike Parking Signs
 
 **High‑Level Description**
 Two separate regulatory signs mounted on a single black pole located outdoors along the waterfront near the mall’s CanalSide exit.
@@ -712,41 +754,7 @@ A freestanding digital kiosk in the interior mall corridor displaying a multi-le
 
 ---
 
-## ITEM 21 — Ecotrash Motion-Activated Recycling Bin ("recycle.")
-
-**High-Level Description**
-A branded, motion-activated recycling receptacle located inside the mall, similar in construction to the earlier trash-only ecotrash unit but with blue recycling graphics.
-
-**Full Transcribed Text (Upper Blue Panel)**
-
-> Original ecotrash®
-> Compared to ordinary trash cans, Original ecotrash uses 80% fewer bags.
-> recycle.
-
-* The word **"recycle."** is in large white lowercase letters with a period.
-* Below the word is a dark rectangular sensor area (no text on the sensor itself in this photo).
-
-**Lower Black Panel Text**
-
-> MOTION ACTIVATED DOOR
-> OPENS AUTOMATICALLY
-
-In the lower-right corner of the black panel is the manufacturer information (partially visible but consistent with the trash unit):
-
-> powered by
-> COMPACTION TECHNOLOGIES, Inc.
-> compactiontechnologies.com
-> 877-860-6900
-
-**Notable Details**
-
-* Upper panel is a solid bright blue rectangle; lower panel is black.
-* The bin housing is dark gray/black metal, integrated into a wood-toned surround.
-* A simple line-art icon on the lower panel shows a trash can and bottles on a counter with the word **"READY"** inside a small rectangle.
-
----
-
-## ITEM 22 — "CHOCOLATE MOONSHINE CO." Storefront Sign
+## ITEM 21 — "CHOCOLATE MOONSHINE CO." Storefront Sign
 
 **High-Level Description**
 Exterior hanging sign above the entrance of a confectionery shop.
@@ -772,7 +780,7 @@ Exterior hanging sign above the entrance of a confectionery shop.
 
 ---
 
-## ITEM 23 — Gradient Light Panel Next to ALDO Store
+## ITEM 22 — Gradient Light Panel Next to ALDO Store
 
 **High-Level Description**
 Vertical digital or backlit panel with a smooth color gradient, mounted on the side of a store entrance in the mall corridor.
@@ -793,7 +801,7 @@ Vertical digital or backlit panel with a smooth color gradient, mounted on the s
 
 ---
 
-## ITEM 24 — "lululemon" Storefront Sign
+## ITEM 23 — "lululemon" Storefront Sign
 
 **High-Level Description**
 Primary exterior sign above the lululemon store entrance.
@@ -813,7 +821,7 @@ Primary exterior sign above the lululemon store entrance.
 
 ---
 
-## ITEM 25 — Potted Plant & Upper-Level View ("Oriental Relaxation")
+## ITEM 24 — Potted Plant & Upper-Level View ("Oriental Relaxation")
 
 **High-Level Description**
 A decorative indoor plant in the mall corridor with a view across to upper-level storefronts.
@@ -837,7 +845,7 @@ More items can be added as additional photos are shared.
 
 ---
 
-## ITEM 18 — CambridgeSide Entry Door Welcome & Rules Sign
+## ITEM 25 — CambridgeSide Entry Door Welcome & Rules Sign
 
 **High-Level Description**
 Transparent white-lettering decal applied to a glass entry door (seen on the Canal Street entrance and likely duplicated on other mall entrances). The text is laid out in two main blocks: a welcome/rights paragraph on the left and a list of prohibited behaviors on the right, with a small camera/recording notice at the bottom.
@@ -1022,3 +1030,929 @@ Festive restaurant façade with wooden planks, a cartoon cat logo, and bright il
 * Double wooden doors are open, showing a glimpse of the interior with additional cat imagery on the back wall.
 * Several people stand in front of the entrance, one in a dark jacket and cap, others in casual clothing.
 
+---
+
+## ITEM S8 — “The Threading Spa” Storefront Sign
+
+**High-Level Description**
+Modern, glass-front beauty service storefront with a cursive illuminated sign.
+
+**Visible Text**
+
+* Main fascia sign: `The Threading Spa` in white script-style lettering.
+* Frosted-glass panel near the entrance includes additional service text partially visible (e.g., `HENNA` and `TINTING`), but full wording is obscured.
+
+**Visual Details & Notable Elements**
+
+* Sign is mounted on a black horizontal band above the entrance; letters are individually mounted and backlit, creating a soft glow against the dark background.
+* Storefront consists of large glass panels framed in light-colored metal, forming a clean rectangular opening.
+* Ceiling immediately above the storefront is a warm off-white with recessed round downlights.
+* Interior appears bright white with smooth walls and a visible treatment area beyond the door.
+
+---
+
+## ITEM S9 — “YARIMA” Clothing Storefront
+
+**High-Level Description**
+Bright apparel boutique with a playful, rounded logo and aqua accent color.
+
+**Visible Text**
+
+* Central sign text: `YARIMA` in all caps, rendered as a single word.
+
+**Visual Details & Notable Elements**
+
+* Letters are thick, rounded, and illuminated from within, with a cyan/aqua glow and dark backing against a white fascia panel.
+* Storefront framing and surrounding walls are white, giving the sign strong contrast.
+* Inside the shop, walls are painted a light turquoise color; clothing racks line the perimeter, displaying hoodies, jackets, and other garments.
+* Large glass windows on either side of the entrance showcase hanging merchandise and decorative wall pieces.
+
+---
+
+## ITEM S10 — “Oriental Relaxation” Storefront & Foot Reflexology Poster
+
+**High-Level Description**
+Massage and reflexology spa with a dark fascia sign, wood-framed entrance, and prominent anatomical foot chart displayed in the window.
+
+**Visible Text**
+
+* Main sign above entrance: `Oriental Relaxation` in white script-style letters on a dark green/black fascia.
+* Window poster text (top line) in Chinese characters with English subtitle directly beneath: `FOOT ECHO SCHEMATIC DRAWING`.
+* The reflexology chart includes numerous small Chinese labels on different regions of the feet; these labels are too small to transcribe individually from the photo.
+
+**Visual Details & Notable Elements**
+
+* Storefront combines tall glass panels on the left with a wide wood-textured frame around the open doorway on the right.
+* The green reflexology chart is taped to the inside of the glass with black tape at the corners, showing labeled diagrams of both soles and side views of the feet in multiple colors.
+* Interior flooring appears to be wood; visible seating includes cushioned chairs and massage stations, with a folding screen further inside.
+* Additional posters and informational sheets are mounted near the entrance, though their text is not fully legible.
+
+**Location Notes**
+
+* This storefront corresponds to **Oriental Relaxation Therapy (2-6)** listed in the mall directory and is located on **Level 2**, visible across the atrium from the seating area documented in ITEM 25.
+
+---
+
+## ITEM S11 — Formal Dress Gallery (“Joselin” Quinceañera / Prom Dresses)
+
+**High-Level Description**
+Large, open-concept formalwear store filled with rows of ball gowns and prom dresses in many colors, with a wide glass frontage and decorative overhead band.
+
+**Visible Text**
+
+* Script-style word `Joselin` appears in gold on the glass near a cluster of display gowns.
+* Small stand signs at the front of the open entrance display a red-circle icon with diagonal slash and text **"NO PETS ALLOWED"**.
+
+**Visual Details & Notable Elements**
+
+* Store interior is expansive and largely unobstructed, with polished concrete floors and white structural columns.
+* Dozens of mannequins are dressed in full-skirted ball gowns in shades of pink, lavender, blue, red, and more, arranged both in rows and in a dramatic central cluster.
+* The ceiling is open, exposing ductwork and hanging track lights that illuminate the dresses evenly.
+* At the mall corridor edge, a continuous band of vertical translucent panels runs above the glass storefront, diffusing light.
+* One photo shows a tighter view of the glass frontage with floral line-art graphics and several gowns pressed close to the window.
+
+**Location Notes**
+
+* This store aligns with **Joselin Boutique (2-5)** on **Level 2**, situated near Boston Soccer Shop (2-4) and Foot Locker (2-8) according to the mall directory.
+
+---
+
+## ITEM S12 — “BOSTON SOCCER SHOP” Storefront
+
+**High-Level Description**
+Sports apparel and gear store specializing in soccer, with a minimalist white sign and security gate.
+
+**Visible Text**
+
+* Main sign on white fascia: `BOSTON SOCCER SHOP` in uppercase letters.
+
+**Visual Details & Notable Elements**
+
+* To the left of the text, a simple logo combines a dark vertical shape with a short red underline.
+* A metal roll-down grille is partially or fully closed across the entrance in the provided photo, revealing the interior behind it.
+* Inside, jerseys and soccer merchandise are visible on racks and walls under an array of white pendant fixtures and track lights.
+* A yellow overhead conduit or sign labeled `NATURAL GAS` is visible deep in the ceiling area when viewed through the grille.
+
+**Location Notes**
+
+* This storefront matches **Boston Soccer Shop (2-4)** on **Level 2**, positioned near Craft Loft (2-3) and Boston Fan Stop (2-11).
+
+---
+
+## ITEM S13 — “CRAFT LOFT” Window Logo and Display
+
+**High-Level Description**
+Creative activity space and retail area with a cloud-shaped logo on the glass and colorful yarn crafts displayed at the front.
+
+**Visible Text**
+
+* Large white logo on the window reads: `CRAFT LOFT` with the letters arranged inside overlapping cloud shapes.
+* Website printed below in lowercase: `www.craftloft.com`.
+
+**Visual Details & Notable Elements**
+
+* The logo is applied as a translucent white decal directly on the glass panel.
+* Just behind the glass, a wooden ledge displays chunky knit bags and soft sculptural pieces in colors like mustard yellow, coral, pale blue, and gray.
+* Inside the space, wooden tables with green metal chairs are arranged for craft activities.
+* Brick columns, open ceilings with exposed ducts, and rows of hanging lights give the interior an industrial-meets-cozy look.
+
+**Location Notes**
+
+* Identified with **Craft Loft (2-3)** on **Level 2**, near the cluster of sports and entertainment stores including Boston Soccer Shop and Boston Fan Stop.
+
+---
+
+## ITEM S14 — “Foot Locker / Kids” Storefront
+
+**High-Level Description**
+Sneaker and athletic apparel store with a bold black-and-white façade and adjacent Kids section branding.
+
+**Visible Text**
+
+* Primary sign above main entrance: `Foot Locker` in white letters on a black fascia.
+* Secondary illuminated sign to the right reads: `Kids`.
+* Large poster near the entrance bears the slogan `JUST GIFT IT`.
+
+**Visual Details & Notable Elements**
+
+* The main fascia is a continuous glossy black strip with the Foot Locker logo lettering standing slightly proud and lit from within.
+* Right-hand window zone features a collage-style black-and-white graphic pattern with sports and sneaker motifs filling the entire wall.
+* Inside the store, multiple illuminated wall displays showcase rows of shoes; central tables display stacked shoe boxes and folded apparel.
+* Inside the stores, the employees wear white and black striped shirts.
+* Ceiling uses a grid of track and pendant lighting with exposed ductwork painted white.
+
+**Location Notes**
+
+* Corresponds to **Foot Locker (2-8)** on **Level 2**, located along the same upper corridor as Joselin Boutique, Boston Soccer Shop, and Craft Loft.
+
+---
+
+## ITEM S15 — “MANGO” Storefront
+
+**High-Level Description**
+Sleek fashion storefront with a minimalist white logo and open glass entrance.
+
+**Visible Text**
+
+* Main sign above entrance: `MANGO` in all-capital letters.
+
+**Visual Details & Notable Elements**
+
+* Letters are three-dimensional, illuminated white with dark edging, mounted directly on a smooth white fascia.
+* Storefront is framed by white structural columns on either side; the entrance consists of large black-framed double glass doors that swing outward.
+* Through the open doors, the interior shows warm wood slat ceiling panels running front to back, with recessed spotlights.
+* Clothing racks and mannequins in neutral-toned outfits are visible just inside the entrance.
+
+**Location Notes**
+
+* Matches **Mango (1-6)** on **Level 1**, positioned along the main shopping corridor near ALDO (1-8) and lululemon (1-7).
+
+---
+
+## ITEM S16 — “T.J.Maxx” Storefront
+
+**High-Level Description**
+Large-format discount retail entrance with bold red-and-white branding and wide open doorway.
+
+**Visible Text**
+
+* Primary sign centered on a red fascia: `Tj•maxx` (stylized with a dot between “Tj” and “maxx” and lowercase letters except the initial “T”).
+* Interior hanging sign near the front reads: `gift to the maxx` as part of a promotional display (partial slogan visible).
+
+**Visual Details & Notable Elements**
+
+* Surrounding wall is painted solid red; the illuminated white logo letters cast subtle shadows against the surface.
+* Entrance opening spans a wide portion of the façade, with no doors—only two white electronic article surveillance pedestals.
+* Inside, bright white ceiling tiles with recessed fluorescent fixtures illuminate aisles of merchandise, including handbags and holiday décor near the front.
+* Floor at the threshold transitions from light mall tiles to paler wood- or laminate-style planks inside the store.
+
+**Location Notes**
+
+* Corresponds to **T.J. Maxx (2-2)** on **Level 2**, anchoring one end of the upper-level corridor near ZARA (2-1) and the central atrium.
+
+---
+
+## ITEM 26 — “CAMBRIDGESIDE” Doodle Mural Seating Area
+
+**High-Level Description**
+Large black-and-white illustrated wall mural spelling “CAMBRIDESIDE” behind a cluster of yellow-topped tables and gray chairs, forming a casual seating zone located outside the Craft Loft and along the path toward the CanalSide / garage access elevators.
+
+**What the Photo Shows**
+
+* Full-width mural with hand-drawn style graphics—buildings, bridges, books, a subway train, coffee cups, pizza slice, gifts, and other icons—surrounding the large central word **"CAMBRIDESIDE"** in block letters.
+* Above the skyline elements, smaller words like **"BOSTON"**, **"HARVARD"**, and **"MIT"** appear integrated into the doodle composition.
+* In front of the mural, several rectangular tables with bright yellow tops and dark bases are arranged in rows, each paired with dark gray chairs.
+* The seating area sits on a dark, textured carpet inset, bordered by lighter tile flooring.
+* White columns frame the space on either side, and overhead lighting is recessed into a gray ceiling with cove-lit perimeter.
+
+**Notable Details**
+
+* The mural uses only black line art on a white background, with the yellow tabletops providing the only strong color accent in the scene.
+* The word **"CAMBRIDESIDE"** is stylized with varying letter sizes and angles, echoing the playful doodle theme.
+
+**Location Notes**
+
+* This seating area occupies a widened section of corridor on **Level 2**, outside the Craft Loft and along the route toward the CanalSide / garage access elevators and the central atrium; exact unit association is **TBD**.
+
+---
+
+## ITEM 27 — Lifestyle Store Window Text (“Discover your hobby”)
+
+**High-Level Description**
+Large glass window of a lifestyle/housewares store bearing a vertical list of motivational phrases in white lettering, with interior merchandise visible behind.
+
+**What the Photo Shows**
+
+* Right-hand glass panel of the storefront overlaid with stacked white text reading:
+  * `Discover your hobby`
+  * `creativity`
+  * `confidence`
+  * `tribe`
+  * `zen`
+  * `favorite Brands`
+  * `inspiration`
+  * `passion`
+  * `(Oh, and bring a friend.`  
+    `   It's more fun that way.)`
+* Inside, wooden display tables hold ceramics, decor items, candles, and gifts; further back, shelves and round tables are filled with additional products.
+* Left side of the window shows a tall concrete planter containing several birch branches; interior exposes brick walls and high ceilings with pendant fixtures.
+
+**Notable Details**
+
+* Text is left-aligned and runs nearly the full height of the glass, making it readable from a distance.
+* The closing line is in parentheses and uses a line break before **"It's more fun that way."**
+
+**Location Notes**
+
+* The specific store name is not visible in this view; it appears to be a lifestyle/gift retailer near the craft and creative zone on **Level 2**. Store identity is **TBD** for later cross-reference.
+
+---
+
+## ITEM 28 — “Roy the Robot” Community Art Vending Machine
+
+**High-Level Description**
+Anthropomorphic art vending machine sculpture with galaxy-themed head and flaming “rocket” base, located in a public seating area of the mall.
+
+**What the Photo Shows**
+
+* Central body resembles a vintage metal vending machine with multiple product windows and pull handles; inside the windows, colorful sticker-style artwork and cartoon motifs are visible.
+* Two flexible metal arms extend from the sides, one bent outward in a gesture.
+* Above the machine, a large oval panel painted with a swirling blue galaxy and bright central core forms the “head,” with two circular “eyes” that resemble spiral galaxies.
+* Base of the structure is wrapped in painted red-and-yellow flames and white tulle fabric, giving the impression of rocket exhaust.
+* Nearby columns, planters, and carpeted flooring place the figure in or near the CAMBRIDESIDE mural seating area.
+
+**Notable Details**
+
+* The machine stands on a wheeled or small-legged base for mobility, with individual metal coin slots and pull knobs along the front.
+* The galaxy head and eyes are painted in deep blues and whites, visually distinct from the metallic body.
+
+---
+
+## ITEM 29 — Community Art Center “Roy the Robot” Information Sign
+
+**High-Level Description**
+Freestanding sign next to the art vending machine explaining its purpose and crediting youth artists from the Community Art Center.
+
+**What the Photo Shows — Key Text (as visible)**
+
+* Large header logo featuring a handprint and heart with the words: **"Community Art Center"**.
+* Bold line beneath: **"STICKERS BY LOCAL TEENS – 2 FOR $0.50!"**
+* Introductory paragraph explains that the Community Art Center is pleased to present **"ROY THE ROBOT,"** an art vending machine created by youth in their teen public art program for selling their artwork as stickers.
+* Invitation text: **"We invite you to support our youth by depositing 50 cents into Roy in exchange for two teen-designed stickers."**
+* Bottom portion lists participating teen artists in multiple columns (names are present but too small to reliably transcribe).
+* Along the bottom edge, three logos/QR codes are visible, including one labeled **"CAC TEEN"**.
+
+**Notable Details**
+
+* The phrase **"2 FOR $0.50!"** is in all caps with an exclamation mark, emphasizing affordability.
+* Numerous sample sticker designs decorate the border of the sign, showing cartoon characters and graphic illustrations.
+
+---
+
+More storefront entries can be added as additional images are documented.
+
+---
+
+## ITEM 30 — The Cheesecake Factory Hallway Menu Case
+
+**High-Level Description**
+Large framed Cheesecake Factory menu posted in the hallway just outside the restaurant entrance.
+
+**What the Photo Shows**
+
+* Vertical rectangular copper‑colored frame with embossed "The Cheesecake Factory" logo across the top metal header.
+* Behind glass is a single large cream‑colored menu page with a pale yellow decorative swirl.
+* Centered heading near the top: **"Welcome!"**
+* Intro paragraph underneath (legible in part):
+
+  * "The Cheesecake Factory® [wants to] bring you the best possible food and service. We are committed to quality, value and your complete satisfaction!" (exact wording partially obscured by resolution).
+* Multiple menu sections arranged in columns with bold section titles, including (as visible):
+
+  * **Small Plates & Snacks**
+  * **Appetizers**
+  * **Flatbread Pizzas**
+  * **Specialties**
+  * **Seafood & Steaks**
+  * **Pasta**
+  * **Salads**
+  * **Sandwiches**
+  * **Cheesecakes**
+  * **Saturday & Sunday Brunch**
+* Each section contains long lists of item names and descriptions with prices in smaller text that is too small to read clearly from the photograph.
+* Fine print appears along the very bottom edge of the menu page.
+
+**Notable Text Limitations**
+
+* Due to image resolution and distance, individual dish names and descriptions are not reliably legible.
+* Only headings and the main "Welcome!" introduction can be captured with confidence; remaining menu copy should be considered unreadable from this photo for puzzle‑building purposes.
+
+**Location Notes**
+
+* Menu case is mounted in the public hallway immediately outside The Cheesecake Factory restaurant entrance (not inside the restaurant itself).
+
+---
+
+## ITEM 31 — Museum of Science "Mars" Community Solar System Station
+
+**High-Level Description**
+Freestanding blue exhibit pedestal representing the planet Mars in the Museum of Science Community Solar System scale model, located on an upper level of the mall.
+
+**What the Main Photo Shows**
+
+* Blue, slightly speckled rectangular tabletop with a circular metallic disk inset in the center, topped by a small golden gnomon (sundial‑style pointer).
+* Curved vertical display panel rising from the table, printed with starfield background, Mars imagery, maps, and text.
+* Supporting pedestal below has a wavy blue metal side with cut‑out silhouettes of stars, comets, planets, and a crescent moon.
+* Brass plaque inset into one corner of the tabletop, reading "MARS" with the planetary symbol above.
+
+### 9A — Brass Plaque on Tabletop
+
+**Text on Plaque**
+
+* Planet symbol (circle with arrow pointing up/right).
+* Word: **"MARS"** (all caps, centered beneath the symbol).
+
+---
+
+### 9B — Panel Text: "Mars: Familiar yet strange" (Left Arc Panel)
+
+*Note: Text reproduced as accurately as possible from multiple angled photos; wording in brackets may not be exact.*
+
+**Visible Title**
+
+* **"Mars: Familiar yet strange."** (title text in red/orange at top of the left inner arc).
+
+**Body Paragraph (approximate but closely transcribed)**
+
+> "Images of Mars show some amazing surface features. Polar ice cap[s] made of frozen carbon dioxide and water shrink and grow with the seasons. A trio of dead volcanoes, each three times the height of Mt. Everest, gives Mars the record for the highest mountains in the solar system. Cutting across the middle of Mars is a huge canyon that is nearly three times as deep as the Grand Canyon and as long as the United States."
+
+**Lower Caption**
+
+* Small caption near images of the moons reads: **"Mars's two moons"**, with labels **"Phobos"** and **"Deimos"** under the two moon photos.
+
+---
+
+### 9C — Panel Text: "Mars" Planet Facts (Right Lower Panel)
+
+This text panel appears beneath a map showing Boston‑area locations of the Community Solar System planets.
+
+**Section Title and Intro**
+
+* Title in red: **"Mars"** followed by the standard Mars symbol.
+* Intro paragraph (very close transcription):
+
+  > "Mars, which appears red even to the naked eye, was named after the bloody Roman god of war. Mars is the fourth planet from the Sun."
+
+**Bullet‑Style Fact List**
+
+* **Average Distance from the Sun:**
+  `228,000,000 km / 142,000,000 mi`
+* **Diameter:**
+  `6,790 km / 4,220 mi`
+* **Length of "Year":**
+  `687 Earth days`
+  (small print notes this is "1 orbit around Sun" / "1 length around Sun").
+* **Length of "Day":**
+  `24 hours, 38 minutes`
+* **Moons:**
+  `2`
+
+Additional surrounding graphics include:
+
+* A radial map centered on **Cambridge** with labeled locations such as **WOBURN**, **WAKEFIELD**, **SAUGUS**, **REVERE**, **BOSTON**, **JAMAICA PLAIN**, **DORCHESTER**, **MILTON**, **QUINCY**, **NEEDHAM**, **DEDHAM**, **NEWTON**, **WALTHAM**, **LEXINGTON**, **MEDFORD**.
+* Yellow star icons marking planetary locations (e.g., **Pluto**, **Uranus**, **Neptune**, **Saturn**, **Jupiter**).
+
+---
+
+### 9D — Panel Text: Museum of Science Community Solar System Heading (Upper Arc)
+
+**Logo and Header**
+
+* Prominent white logo: **"Museum of Science™"** with an orbiting‑dot graphic.
+* Subtitle in white: **"COMMUNITY SOLAR SYSTEM"** (all caps, arched along the panel).
+
+**Yellow Banner Text**
+
+* Bold yellow headline on one side: **"You've reached Mars!"**
+
+**Descriptive Paragraph (approximated carefully)**
+
+> "This station is part of the [Museum of Science] Community Solar System centered in Peoria, Illinois. This model represents both size AND distance on the same scale (1 = 10,000 km or 6,215 miles). Here, the scale of the planets AND their distances from the Sun (at the Museum of Science) are both accurate."
+> Yellow highlight line at bottom: **"Visit all 9 planets and experience the awesome vastness of space!"**
+
+---
+
+### 9E — Planet Location Table: "Here's where the rest of the Solar System is located:" (Right List Panel)
+
+**Heading Text**
+
+* **"Here's where the rest of the Solar System is located:"**
+
+**Column Headers**
+
+* **"Solar System Member"**
+* **"Scale Diameter"**
+* **"Scale Distance from Sun"**
+
+**Table Entries**
+
+* **Sun**
+
+  * Scale Diameter: **3.5 m (11.6 ft)**
+  * Scale Distance from Sun: **0**
+  * Location line beneath: **"Charles Hayden Planetarium"**
+
+* **Mercury**
+
+  * Scale Diameter: **1.2 cm (0.5 in)**
+  * Scale Distance from Sun: **147 m (483 ft)**
+  * Location: **"Museum of Science"**
+
+* **Venus**
+
+  * Scale Diameter: **3.1 cm (1.2 in)**
+  * Scale Distance from Sun: **275 m (901 ft)**
+  * Location: **"Museum of Science"**
+
+* **Earth**
+
+  * Scale Diameter: **3.2 cm (1.3 in)**
+  * Scale Distance from Sun: **0.38 km (0.24 mi)**
+  * Location: **"Royal Sonesta Hotel"** on first line, **"Cambridge"** on second line.
+
+* **Mars**
+
+  * Scale Diameter: **1.7 cm (0.7 in)**
+  * Scale Distance from Sun: **0.58 km (0.36 mi)**
+  * Location: **"Cambridgeside Galleria"** on first line, **"Cambridge"** on second line.
+
+* **Jupiter**
+
+  * Scale Diameter: **36.3 cm (14.3 in)**
+  * Scale Distance from Sun: **1.98 km (1.23 mi)**
+  * Location: **"South Station"** on first line, **"Boston"** on second line.
+
+* **Saturn**
+
+  * Scale Diameter: **30.6 cm (12.0 in)**
+  * Scale Distance from Sun: **3.62 km (2.25 mi)**
+  * Location text: **"Currently"** on first line, **"Not Available"** on second line.
+
+* **Uranus**
+
+  * Scale Diameter: **13.0 cm (5.1 in)**
+  * Scale Distance from Sun: **7.29 km (4.53 mi)**
+  * Location: **"Public Library"** on first line, **"Jamaica Plain"** on second line.
+
+* **Neptune**
+
+  * Scale Diameter: **12.6 cm (5.0 in)**
+  * Scale Distance from Sun: **11.42 km (7.1 mi)**
+  * Location text: **"Currently"** on first line, **"Not Available"** on second line.
+
+* **Pluto**
+
+  * Scale Diameter: **0.58 cm (0.23 in)**
+  * Scale Distance from Sun: **15.02 km (9.3 mi)**
+  * Location: **"Riverside T Station"** on first line, **"Newton"** on second line.
+
+---
+
+### 9F — Pedestal Side Design (Cut‑Out Shapes)
+
+**Visual Details (No Text)**
+
+* Wavy blue metal side panel with black cut‑out silhouettes including:
+
+  * Multiple stars of varying sizes
+  * Circular "planet" holes
+  * A long‑tailed comet
+  * A ringed planet near the bottom
+  * A crescent moon
+* Behind some cut‑outs, a perforated metal inner surface is visible, giving a layered look.
+
+**Location Notes**
+
+* Exhibit is placed near a glass railing on an upper mall level, with storefronts (including **ZARA**) visible in the background.
+
+---
+
+### 9G — Panel Text: "Life on Mars?" (Right Arc Panel, Upper Section)
+
+*Note: Text reproduced as accurately as possible from the photo; minor wording may differ slightly from the original sign.*
+
+**Visible Title**
+
+* **"Life on Mars?"** (title text in red at the upper right of the inner arc panel).
+
+**Body Paragraph (approximate but closely transcribed)**
+
+> "An idea from science fiction is now one of the hottest areas of space science research. In 1996, scientists found possible evidence of ancient microorganisms in a Martian meteorite. The Martian rock, which fell to Earth after an asteroid impact blasted it away from the surface of Mars, contains organic chemicals and microscopic features that look like bacteria fossils. Will future spacecraft to Mars find more signs of life?"
+
+**Notable Details**
+
+* Paragraph is printed in white text on a dark starfield background, directly beneath a rectangular close-up image of Martian surface texture framed with a thin yellow border.
+* The question mark is part of the title "Life on Mars?" and is the only punctuation in the heading.
+
+---
+
+### 9H — Panel Text: "Desert Martian landscape" (Right Arc Panel, Lower Section)
+
+*Note: Text reproduced as accurately as possible from the photo; minor wording may differ slightly from the original sign.*
+
+**Visible Title**
+
+* **"Desert Martian landscape"** (title text in red just above the lower right text block).
+
+**Body Paragraph (approximate but closely transcribed)**
+
+> "The 'Red Planet' is red because it is covered with rusty dust–iron oxide. Huge dust storms blow the red dry soil around the planet, causing the sky to appear pink. In the summer of 1997, the spacecraft Pathfinder and robotic rover Sojourner gave us spectacular views of the Martian landscape."
+
+**Notable Details**
+
+* A rectangular color photograph of the Mars Pathfinder rover and rocky terrain sits directly below the paragraph, framed with a thin yellow border similar to the image above the "Life on Mars?" section.
+* The phrase "Red Planet" appears in quotation marks in the first sentence.
+
+---
+
+## ITEM 32 — MP-6 / MP-7 Elevator Lobby Service Door
+
+**High-Level Description**
+
+Single gray metal service door with a small identification plaque, located in a quiet interior corridor.
+
+**What the Photo Shows**
+
+* Smooth gray door panel set in a slightly darker gray metal frame.
+* Narrow vertical metal strip on the left edge suggests this is one leaf of a wider double-door assembly (other leaf mostly out of frame).
+* Near the horizontal center of the door, a small black rectangular plaque with white lettering reads (as visible):
+  * Top line: **"MP-6, MP-7"**
+  * Bottom line: **"Elevator Lobby"**
+* Standard silver lever handle mounted on the right side of the door.
+* Floor is light beige/gray large-format tile; adjoining wall is plain white with simple base tile.
+
+**Notable Details**
+
+* Sign uses a comma between **"MP-6"** and **"MP-7"** and places **"Elevator Lobby"** on a separate line.
+* Door surface shows subtle scuffing and smudges near the bottom half, indicating regular back-of-house use.
+
+---
+
+## ITEM 33 — Fire Department Connection / Emergency Exit Doors
+
+**High-Level Description**
+
+Pair of gray metal emergency exit doors with bold fire-department labeling and corridor identification signage.
+
+**What the Photo Shows**
+
+* Two full-height gray metal doors set in a matching frame, each with a horizontal silver panic bar near mid-height.
+* Across the upper center of the right-hand door area (above the door seam), red all-caps lettering on the wall reads: **"FIRE DEPT CONNECTION"**.
+* On the right-hand door, a two-part rectangular sign is mounted at about eye level:
+  * Upper brass-colored portion with black letters: **"Emergency Exit Only"**.
+  * Lower blue portion with white text listing location information (as visible), including a corridor number and door number.
+* At the lower edges of the doors, a continuous brushed metal kick plate runs along the bottom.
+* To the left on the adjacent wall is a red fire alarm pull station inside a clear plastic cover labeled **"FIRE"** with instructions to **"LIFT HERE"**.
+* Floor consists of light square tiles; the wall on the right transitions to a warm vertical wood-slat finish.
+
+**Notable Details**
+
+* Panic bars and kick plates are finished in brushed metal, contrasting with the flat gray paint of the doors.
+* The phrase **"Emergency Exit Only"** is isolated on the brass plaque, while the specific corridor and door identifiers are reserved for the blue sub-plate.
+
+---
+
+## ITEM 34 — Level 2 Atrium View Toward ZARA
+
+**High-Level Description**
+
+Wide interior vista looking across the central atrium on the upper level toward the ZARA storefront, with seasonal hanging decorations and glass railings.
+
+**What the Photo Shows**
+
+* Foreground: large expanse of pale square floor tiles with subtle tone variation.
+* Center distance: glass-railed bridge/walkway spanning the atrium, leading directly to a bright white **"ZARA"** storefront centered in the frame.
+* ZARA storefront features wide glass doors and display windows showing mannequins and clothing inside.
+* Suspended from the ceiling in front of the railing are several tall, pyramid-shaped metal frames holding vertical cone-shaped Christmas trees wrapped in lights.
+* Ceiling has recessed rectangular panels and circular light fixtures; multiple white structural columns frame the view.
+* To the left, a large temporary sign on a lower-level storefront reads **"Fashion Evolv[e] So Do We."** (partial text visible), with additional smaller copy beneath.
+
+**Notable Details**
+
+* Glass railing along the atrium edge uses clear panels with minimal metal framing, maintaining sightlines to the lower level.
+* The ZARA logo appears twice in the distance: one directly ahead on the far wall, and a second smaller sign on the left-hand storefront set back from the main view.
+
+**Location Notes**
+
+* Based on the mall directory, this view is from **Level 2** looking toward ZARA at unit **2-1**, across the central atrium that opens down toward Level 1 (where Sephora and Apple are located on the same axis).
+
+---
+
+## ITEM 35 — Seating Lounge and Pepsi Vending Area
+
+**High-Level Description**
+
+Soft-seating lounge zone on carpeted flooring adjacent to a wood-paneled wall, anchored by a Pepsi-branded beverage vending machine and multiple planters.
+
+**What the Photo Shows**
+
+* Carpeted area with a blue and gray geometric pattern forming broad intersecting bands and rectangles.
+* Several low, backless benches upholstered in dark gray vinyl or leather, each with stitched rectangular segments and brushed metal legs.
+* Matching low white rectangular coffee tables with metal legs placed between benches to form a seating cluster.
+* At one edge of the carpet zone stands a tall Pepsi vending machine with illuminated glass front:
+  * Sides and top of the machine feature large **"Pepsi"** logos on a blue background.
+  * Inside, rows of bottles and cans in various colors are visible.
+* Surrounding the carpet area, light beige floor tiles continue into an adjoining corridor.
+* Multiple rectangular planters in light gray house tall green plants (including upright, spiky varieties and taller multi-stem plants).
+* Walls in the background combine vertical light wood paneling and darker wood frames around open doorways leading to additional rooms or corridors.
+
+**Notable Details**
+
+* Some benches are positioned fully on the carpet while others straddle the edge between carpet and tile, emphasizing the lounge boundary.
+* Circular metal floor ports are inset into the carpet, likely access points for power or data.
+
+**Location Notes**
+
+* This lounge appears on an upper-level concourse adjacent to interior office/amenity spaces; exact mall-map unit is **TBD** and can be refined once more precise orientation shots are available.
+
+---
+
+## ITEM 36 — Tablet Strollers Rental Kiosk and Carts
+
+**High-Level Description**
+
+Row of bright green child strollers with integrated tablet signage, served by a payment kiosk that accepts bills and credit cards; located along an upper-level railing overlooking the central atrium.
+
+**What the Photo Shows**
+
+* Long line of green plastic **tablet strollers** with black frames and small front wheels, all docked nose-to-tail in a parking rail.
+* Each stroller has a yellow sign panel mounted on a tall black post behind the seat, reading:
+  * Large orange text: **"Tablet Strollers"**
+  * Center graphic of a tablet screen with green background and red text: **"Watch nick jr."** (stylized).
+  * Smaller lower text: **"Credit Cards Accepted"** and **"Smarte Carte Strollers"** (partially visible).
+* Close-up of the payment unit shows:
+  * Circular black-and-yellow emblem at top with **"$8"**.
+  * Green LCD display window reading: **"CART USE = $8.00"**.
+  * Bill acceptor slot labeled **"BILLS / BILLETES"** with denominations icon row ($1, $5, $10, $20).
+  * Lower-left text panel: **"Change given for amount over purchase."** / **"Se obtiene cambio al pagar más de lo justo."**
+  * Right-hand yellow graphic area labeled **"Credit Cards / Tarjetas De Crédito"** with stylized stroller icon.
+  * Cluster of card-brand logos (including Visa, MasterCard, Discover, American Express) near the card slot.
+* Background views show white structural columns, glass railings, and hanging ring-shaped greenery decorations with blue lights over the atrium.
+
+**Notable Details**
+
+* Pricing is prominently displayed twice: as a **"$8"** emblem and as **"CART USE = $8.00"** on the digital screen.
+* Signage and payment instructions are bilingual in English and Spanish for both **bills** and **credit cards**.
+
+**Location Notes**
+
+* Station is positioned on **Level 2** along the central atrium railing; nearby sightlines include ZARA (2-1), T.J. Maxx (2-2) signage, and lower-level storefronts like Sephora (1-31) and Apple (1-30).
+
+---
+
+## ITEM 37 — Overhead Banner: CanalSide FOOD + DRINK Directional Sign
+
+**High-Level Description**
+
+Large fabric banner suspended above the central atrium, advertising the CanalSide FOOD + DRINK area and directing visitors to Level 1.
+
+**What the Photo Shows**
+
+* Rectangular navy-blue banner hanging from the ceiling, oriented lengthwise across the atrium.
+* Left side of the banner contains a large white upward arrow inside a circle.
+* Right of the arrow, bold white text in stacked lines reads (as visible):
+  * **"13 Eateries,"**
+  * **"Weekly Events + "**
+  * **"Waterfront Bar"**
+  * Smaller line beneath: **"Level 1"**
+* Lower right portion features the CanalSide branding:
+  * White fountain icon with three upward arcs.
+  * Text: **"CanalSide"** above **"FOOD + DRINK"**.
+* In the background below the banner, the mall’s main concourse extends in both directions, with visible storefronts including **ZARA**, **Sephora**, and **Apple**; a central information or welcome kiosk stands on Level 1.
+
+**Notable Details**
+
+* The phrase **"Weekly Events + Waterfront Bar"** uses a plus sign rather than the word "and".
+* Banner explicitly mentions **"13 Eateries"**, which is fewer than the full CanalSide count listed on the printed Dock + Dine poster.
+
+**Location Notes**
+
+* Banner is hung high above the central atrium near the junction of the main Level 1 shopping corridor and the vertical circulation to CanalSide; from the viewing angle, the camera is on **Level 2**, looking down toward the information kiosk and the entrances to Sephora (1-31) and Apple (1-30).
+
+---
+
+## ITEM 38 — Ceiling Utility Pipes and Labels Near Garage Elevator Corridor
+
+**High-Level Description**
+
+Exposed ceiling pipes, ducts, and labeled services in the corridor that connects the CanalSide food hall to the elevator lobby and parking garage.
+
+**What the Photo Shows**
+
+* Multiple runs of white-painted pipes and conduit mounted to ceiling racks, some bundled in parallel.
+* Large insulated rectangular ducts wrapped in white material with green labels reading **"EXHAUST"** or **"SUPPLY AIR"** with arrows.
+* Bright yellow pipes labeled in black: **"NATURAL GAS 2 PSI"** with directional arrows.
+* A smaller white pipe labeled in black: **"LAB WASTE"**.
+* Several green pipe labels on white pipes reading (as visible): **"COLD WATER LOW ZONE"** and **"COLD WATER RETURN LOW ZONE"**.
+* In some views, the black elevator shaft cladding and diffusers/vents are visible along the corridor ceiling.
+
+**Notable Details**
+
+* Service names are repeated at intervals along each pipe, all in uppercase with arrows indicating flow direction.
+* All pipes and ducts are exposed but neatly organized on metal support rails, emphasizing the “back‑of‑house” feel of this access route.
+
+**Location Notes**
+
+* This ceiling infrastructure runs above the hallway that leads from the **CanalSide FOOD + DRINK** area toward the **elevator with the “Tomorrow’s innovations start here.” graphic** (ITEM 1) and toward the parking garage, behind/near the two‑toned CanalSide wall sign with greenery (ITEM 3).
+
+---
+
+## ITEM 39 — CanalSide Curved Digital Column Screen Near CVS
+
+**High-Level Description**
+
+Central digital column in the Level 1 main corridor showing CanalSide FOOD + DRINK branding and media, positioned at the junction of the main concourse, the escalators, and CVS.
+
+**What the Photo Shows**
+
+* Large curved LED screen wrapped around a square column base; in this frame it shows a close-up of drink taps and glass with overlaid CanalSide branding.
+* Text on the screen includes:
+  * **"CanalSide"** with the fountain icon
+  * **"FOOD + DRINK"**
+  * **"Level 1"**
+* At the base of the column are three low, square, light‑beige upholstered benches on metal legs arranged around it.
+* To the right, the bright red heart logo and white letters of **"CVS"** mark the pharmacy entrance; signage like **"checkout"** and **"food"** is visible inside.
+* The floor is the standard pale tile of the main corridor; white columns and glass railings are visible further back.
+
+**Notable Details**
+
+* The CanalSide screen acts as both advertising and wayfinding, repeating the same brand elements used on the Dock + Dine poster and wall signs.
+* Benches are oriented to face multiple directions, making this a natural pause point at the corridor crossroads.
+
+**Location Notes**
+
+* Level 1, at the intersection of the main north–south concourse, the CanalSide entrance/wayfinding, and the CVS (unit 1‑29).
+
+---
+
+## ITEM 40 — Real Fruit Ice Cream Counter (CanalSide)
+
+**High-Level Description**
+
+Compact ice cream counter in the CanalSide food hall with a simple glass front and bright red lettering.
+
+**What the Photo Shows**
+
+* Low, straight glass counter revealing the prep area: metal ice cream pans, blenders, utensils, and cups on the back counter.
+* Across the front glass, individual red block letters spell: **"REAL FRUIT ICE CREAM"**.
+* Front of the counter is clad in vertical wood slats in a light to medium brown tone.
+* Behind the station, two large blank black menu boards (screens) hang on a wood‑backed wall.
+* In the background, other CanalSide tenants are visible, including signage reading **"ASIAN BOWLS"** and **"MEXICAN"** with the **"Chilacates"** logo.
+
+**Notable Details**
+
+* The red lettering is applied directly to the glass in a gently arcing line, with equal spacing between words.
+* The station is open on top with no overhead structure, differentiating it from the built‑in stalls around the perimeter.
+
+**Location Notes**
+
+* Inside **CanalSide FOOD + DRINK** on Level 1, near the ASIAN BOWLS / Mexican zone and opposite central seating.
+
+---
+
+## ITEM 41 — CanalSide Central Seating Under JUICE BAR / ICE CREAM Fascia
+
+**High-Level Description**
+
+Large shared seating area in the middle of the CanalSide food hall beneath a grid of circular pendant lights and a perimeter fascia labeled with drink and dessert categories.
+
+**What the Photo Shows**
+
+* Rows of square and rectangular wooden tables paired with light wood chairs and high stools; many are occupied by diners.
+* Overhead, a decorative ceiling feature combines large white globe lights set into a golden rectangular grid suspended from exposed dark ceiling structure.
+* Along the far perimeter, a continuous white band with black text reads category labels such as **"JUICE BAR"** and **"ICE CREAM"**; additional CanalSide and vendor signage is visible behind.
+* Column bases and some overhead beams are wrapped with bands of artificial greenery.
+
+**Notable Details**
+
+* Seating types vary: standard‑height tables and chairs, long high tables with bar stools, and some stepped seating nearby.
+* The JUICE BAR / ICE CREAM fascia mirrors the style of the BEER / COCKTAILS / WINE fascia at the C‑Side bar.
+
+**Location Notes**
+
+* Central CanalSide seating zone on Level 1, roughly in front of Juicygreens (1‑21), Far Out Ice Cream (1‑22), and C‑Side Bar (1‑23).
+
+---
+
+## ITEM 42 — CanalSide Lower Seating Area with Large Wall Screen
+
+**High-Level Description**
+
+Slightly sunken seating pocket featuring a giant wall‑mounted video screen and small café tables, adjacent to the main CanalSide circulation.
+
+**What the Photo Shows**
+
+* A short ramp with a black mesh railing leads down to a lower platform with several small, square wooden tables and matching chairs.
+* Dominating one wall is a large horizontal video screen showing close‑up footage of a burger on a grill.
+* Planters with tall green plants line the edges of the platform; a light wood and slatted wall frames the screen area.
+* The main food hall floor above uses terrazzo‑style finishes that transition into the lower area.
+
+**Notable Details**
+
+* The mesh railing and ramp clearly define the nested seating zone apart from the main traffic flow.
+* The big screen appears positioned for ambient content rather than menu information, reinforcing a lounge feel.
+
+**Location Notes**
+
+* CanalSide Level 1, along the glass‑walled outer edge facing Canal Park, near one of the side entrances/exits.
+
+---
+
+## ITEM 43 — CanalSide Bar Interior Facing Canal Park
+
+**High-Level Description**
+
+View from inside the C‑Side bar area looking toward the exterior windows and Canal Park, highlighting bar seating and window‑side tables.
+
+**What the Photo Shows**
+
+* Foreground: white bar counter with vertical wood‑slat front, paired with modern brown bar stools on thin metal legs.
+* Back bar shows shelves of bottles and glassware lit from behind, with screens overhead.
+* Beyond the bar, floor‑to‑ceiling windows reveal trees and paths outside; between bar and windows are low tables with mixed seating.
+* White round columns and mesh railings match the rest of the food hall design.
+
+**Notable Details**
+
+* The bar counter is slightly elevated relative to some of the surrounding seating, emphasizing its role as a focal point.
+* Exterior views include greenery and a red‑leaved tree, grounding CanalSide as an indoor‑outdoor edge space.
+
+**Location Notes**
+
+* C‑Side Bar zone within CanalSide on Level 1, directly adjacent to Canal Park side windows.
+
+---
+
+## ITEM 44 — CanalSide Cuisine Fascia: MEDITERRANEAN / BURGERS & CHICKEN / ASIAN BOWLS
+
+**High-Level Description**
+
+Straight-on view of a row of CanalSide stalls under a long category fascia labeling different cuisines.
+
+**What the Photo Shows**
+
+* Long white band above the stalls with black all‑caps text segments: **"MEDITERRANEAN"**, **"BURGERS & CHICKEN"**, **"ASIAN BOWLS"**.
+* Below **"BURGERS & CHICKEN"**, an orange‑accented counter (likely Nu Burger) with digital menu boards and a service line.
+* Under **"ASIAN BOWLS"**, the **InChu** stall with brightly colored bowl images and menu boards.
+* In front, long communal tables and high‑top counters with stools.
+
+**Notable Details**
+
+* Category labels are evenly spaced and aligned, acting as wayfinding independent of the individual brand names.
+* Each stall’s own branding (e.g., Nu Burger, InChu) appears on its own digital or physical signage below the shared fascia.
+
+**Location Notes**
+
+* Along the back wall of CanalSide Level 1, opposite portions of the central seating area.
+
+---
+
+## ITEM 45 — CanalSide ASIAN BOWLS / Mexican (Chilacates) Close-Up
+
+**High-Level Description**
+
+Closer view of the CanalSide stalls transitioning from ASIAN BOWLS to MEXICAN, with InChu and Chilacates side by side.
+
+**What the Photo Shows**
+
+* Upper fascia text: **"ASIAN BOWLS"** on the left, **"MEXICAN"** on the right.
+* Under **"ASIAN BOWLS"**, the InChu stall with white menu board listing bowl steps and a digital screen showing colorful bowl imagery labeled **"inchu"**.
+* Under **"MEXICAN"**, the Chilacates stall with a red rectangular sign reading **"Chilacates"** and smaller line **"MEXICAN STREET FOOD"**.
+* Countertops, hanging pendant lights, and staff preparing food behind glass; a guest sits at the counter in front.
+
+**Notable Details**
+
+* The word **"Chilacates"** appears both vertically on a side column and horizontally on the main sign.
+* The fascia line clearly divides cuisine types even though the counters are directly adjacent.
+
+**Location Notes**
+
+* CanalSide Level 1, mid‑section of the food hall’s back wall, flanked by other category segments like Burgers & Chicken and Mediterranean.
