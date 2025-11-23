@@ -10,7 +10,7 @@
 
 2. The Great Toy Rebellion - Someone accidentally donated their brother's childhood teddy bear, and the toys in the donation bin are alive and planning a rescue! They need human hands to complete the heist—you'll follow clues from the toys themselves to reunite the bear with its owner before the truck arrives.
 
-3. The Midnight Prank Protocol - Decades ago, a legendary prankster rigged the entire mall with a Rube Goldberg foam apocalypse that was never triggered—until now. Using old blueprints, you must race through the mall finding hidden switches in unexpected places before a fancy event tonight gets buried under mountains of pink foam.
+3. The Midnight Prank Protocol - Decades ago, a legendary prankster rigged the entire mall with a Rube Goldberg foam apocalypse that was never triggered—until now. Using old blueprints, you must race through the mall finding hidden switches in unexpected places before before the mall gets buried under mountains of pink foam.
 
 ---
 
@@ -81,7 +81,7 @@ Mr. Snuggles isn't just a teddy bear—he's Lex's childhood companion, the toy t
 
 ### The Problem
 
-Lex has been researching the mall's history for a documentary project when he discovered something incredible: In the 1980s, a legendary prankster named "The Foam Phantom" worked as a mall engineer and secretly rigged the entire building with an elaborate Rube Goldberg machine. The plan was to create the ultimate prank—10,000 gallons of pink foam erupting from fountains, planters, and hidden vents to turn a fancy gala into a foam party.
+Lex has been researching the mall's history for a new music video when he discovered something incredible: In the 1980s, a legendary prankster named "The Foam Phantom" worked as a mall engineer and secretly rigged the entire building with an elaborate Rube Goldberg machine. The plan was to create the ultimate prank—10,000 gallons of pink foam erupting from fountains, planters, and hidden vents to turn a fancy gala into a foam party.
 
 The prank was never triggered... until now. While examining the old blueprints, Lex accidentally activated the 40-year-old system. The machine is warming up, and in 60 minutes, the mall will be buried under mountains of pink foam. Lex is trying to trace the original trigger point, but he needs help finding the kill switches scattered throughout the mall.
 

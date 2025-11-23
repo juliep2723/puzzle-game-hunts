@@ -8,7 +8,7 @@
 
 ### **Store Name Puzzles**
 
-**Word Search Using Store Names:**
+**Word Search Using Store Names: - but somehow they would have to be solveable not from the mall map, so maybe logos and icons which are not represented on the map**
 - Word search grid contains store names from directory (ZARA, APPLE, SEPHORA, LULULEMON, etc.)
 - No word list provided - players find words from directory board
 - Words can overlap, share letters
@@ -18,15 +18,17 @@
   - Level 2 stores only
   - CanalSide Food + Drink eateries only
   - Mixed (shopping + food)
+  - Stores that have a certain color
+  - Stores that have in their name or logo something to do with fruit, royalty, etc (from a list), names / logos that include images of items from the sky
 
 **Store Name Acrostic:**
-- First letter of each store name (in specific order) spells secret word
+- First letter of each store name (in specific order) spells secret word - from videos that show the store names blurred out
 - Order determined by: unit numbers, directory position, alphabetical, or story clue
-- Example: "Go to stores 1-5, 1-7, 1-30, 1-31 in order. First letters spell..."
+- Example: "Go to stores 1-5, 1-7, 1-30, 1-31 in order. First letters spell..." - but not solveable from mall map, so needs to be more creative
 
 **Store Name Anagram:**
-- Rearrange letters from store names to form relevant word/phrase
-- Could use: store names from specific area, first letters, last letters
+- Rearrange letters from store names to form relevant word/phrase, but store names not readable from mall map
+- Could use: store names from specific area, first letters, last letters, logos of a certain color
 - Example: "Rearrange letters from these 5 stores to spell the password"
 
 **Store Name Letter Extraction:**
@@ -191,7 +193,7 @@
 ### **Sudoku Puzzles**
 
 **Sudoku for Code:**
-- Sudoku puzzle (physical or virtual)
+- Sudoku puzzle (virtual)
 - Once solved, numbers in specific squares form code
 - Squares could be: corners, center, colored squares, specific pattern
 - Example: "Numbers in red squares = 3-digit code"
@@ -226,12 +228,12 @@
 
 ---
 
-## Physical Lock Puzzles
+## Virtual Lock Puzzles
 
 ### **Lockbags & Lockboxes**
 
-**Lockbag → Key → Lockbox Chain:**
-- 3-digit lockbag contains colored key
+**Virtual Lockbag → Key → Lockbox Chain:**
+- 3-digit virtual lockbag contains colored key
 - Key unlocks matching color lockbox
 - Lockbox contains: next puzzle, clue, video link, candy
 - **Colors available:** Red, Blue, Green, Pink, Black, White
@@ -247,7 +249,6 @@
 - Complete lyrics/message
 - Video link
 - Next clue
-- Candy/chocolate rewards
 
 **Virtual Lockbags/Lockboxes:**
 - If no physical locks, virtual equivalents
@@ -352,12 +353,6 @@
 
 ### **Photo Tasks**
 
-**Photo Framing:**
-- Take photo from specific perspective
-- Pattern: "Stand at Apple store, photo must include ZARA and escalator"
-- Photo reveals next location or code
-- Example: "Object in center of photo = next clue location"
-
 **Photo Comparison:**
 - Compare photo to reality
 - Pattern: "Photo shows store at unit 1-30, but what's different now?"
@@ -412,6 +407,8 @@
 - Combine directory info and menu info
 - Pattern: "Store at unit 1-16, menu has 5 items: 16+5 = 21"
 - Example: "Eatery at unit 1-22, 3rd item on menu: extract letter"
+
+**You're solving for numbers but then use a cypher to solve message**
 
 ---
 
@@ -554,6 +551,8 @@
 - Players find that store
 - Store reveals next clue or code
 - Example: "Character says 'Apple', go to Apple store, find code on sign"
+- Video mentions going somewhere in mall where you can see 2 fruit stores. Apple & Mangoes are across from each other.
+- Video mentions stores that relate to royalty: Queenie and another store has a crown in the logo, unexpectedly.
 
 **Character Mentions Unit Number:**
 - Video character says unit number
@@ -577,7 +576,7 @@
 - Each puzzle rewards one word
 - Words collected: "FIND", "TOGETHER", "SAVE", "MALL", "COMMUNITY"
 - String words together in order → Form complete message
-- Example: "FIND TOGETHER SAVE MALL COMMUNITY" = final message
+- Example: "FIND TOGETHER SAVE MALL COMMUNITY" = final message - this is lame - should be better if we do this.
 
 **Assembled Code:**
 - Each puzzle rewards one letter or digit
@@ -1251,5 +1250,70 @@
 - **Improv & Playfulness:** Letting players create part of the game themselves in the moment.
 - **Mindful Attention:** Helping kids feel calmer and more present, not just faster and louder.
 
-Below are "guest designers" and the kinds of mechanics they might add, with your spin on them.
+Other mechanices from an ideation I went through about Mixboard (Mixboard isn't relevant, but there were good ideas here about web-based game mechanics we might modify for our game). Ignore the use of Mixboard, but gt inspired by these ideas.
+  
+Phase 2: Ideating Puzzle Mechanics (The "From Scratch" Games)
+Use Mixboard to create the visual assets you will code into the logic games.
+4. The Menu Cipher (Cheesecake Factory) Upload the photo of the Cheesecake Factory menu.
+Mix with: "Glowing alien glyphs replacing specific letters" or "Redacted CIA document style."
+Mix with: "80s blueprint schematics."
+Goal: Create a digital version of the menu where players must tap specific items to spell a code. The "mix" helps you hide the clues subtly.
+
+5. The Pattern Recognition Floor Upload a photo of a distinct floor tile pattern from a specific corridor.
+Mix with: "Tetris blocks" or "Pipe connection puzzle pieces."
+Mix with: "Glowing path markers."
+Goal: Create the background for a "Rotate the Pipes" or "Pathfinder" mini-game where the puzzle pieces effectively camouflage into the real floor photo.
+
+6. The "Magic Eye" Storefront Upload a photo of a cluttered storefront (e.g., a toy store or Claire’s).
+Mix with: "Hidden object game style, highlighted items."
+Mix with: "Semi-transparent ghost animals."
+Goal: Generate a "Find the Difference" game. On the phone, they see the "Mixed" version; in real life, they see the normal version. They must tap the items on the phone that don't exist in reality (e.g., the hidden AR animals).
+
+7. The Signage Scramble Upload a photo of a recognizable store sign (e.g., "GAP").
+Mix with: "Scrabble tiles" or "Ransom note letters."
+Goal: Visualizing an anagram puzzle. You code a drag-and-drop letter game, but the "tiles" look exactly like the texture/font of the real sign they are standing in front of.
+
+8. The Architectural X-Ray (Hook C) Upload a photo of a plain wall or pillar near a puzzle stop.
+Mix with: "Internal gears, clockwork mechanism, 1980s machinery."
+Goal: Create an AR-style "scanner" game. Players hold their phone up (simulated), and your web app shows the "Mixed" image, revealing where the "kill switch" is hidden inside the wall.
+
+9. The Security Cam Hack Upload a photo of a high corner where a security camera sits.
+Mix with: "Grainy VHS surveillance footage, time stamp overlay."
+Goal: Create a static image for a "Hack the Camera" puzzle. Maya sends this image saying, "I hacked the feed, look at this timestamp." The timestamp is the code for the next lock.
+
+Phase 3: "Digital Lock" Concepts (Replacing the Lockboxes)
+How do players interact with the phone to "unlock" the next beat?
+10. The Color Match (Hook C - Foam) Upload a photo of a colorful display (e.g., a candy store or soda machine).
+Mix with: "Color palette swatches" or "Digital color picker UI."
+Goal: Ideate a "Simon Says" or color-code input game. Players must find the exact RGB sequence of the real-world display to stop the foam pressure valve.
+
+11. The Audio Waveform (Hook A - Animals) Upload a photo of the specific quiet hallway where audio clues matter.
+Mix with: "Sound frequency waves, audio spectrum visualization."
+Goal: Design a visual interface for an audio puzzle. Maya sends a "roar," and players must adjust a slider on their phone to match the visual waveform of the roar to "capture" the animal.
+
+12. The "Glitch" Repair Upload a photo of a digital directory kiosk.
+Mix with: "Broken glass effect, pixel sorting, TV static."
+Goal: Create a "Sliding Tile" puzzle. The image on the phone is the scrambled/glitched directory; players must slide the tiles to restore the image to match the real directory in front of them.
+
+13. The Price Tag Logic Upload a photo of a sale sign or price tag.
+Mix with: "Mathematical equation overlay, glowing numbers."
+Goal: A math puzzle where the variables ($X, $Y) are derived from real prices in the window.
+
+Phase 4: Narrative Immersion & Maya's Role
+Enhancing the Telegram experience.
+14. Maya’s "Desk" (The HQ) Upload a photo of a generic mall table/bench.
+Mix with: "Hacker setup, multiple monitors, coffee cups, blueprints."
+Goal: Create the "Home Base" image Maya sends to prove she is on the inside (or monitoring from outside).
+
+15. The Villain’s Trace Upload a photo of a shiny floor or glass railing.
+Mix with: "Muddy paw prints (Hook A)" or "Pink slime residue (Hook C)."
+Goal: Create "clue images" Maya sends. "I'm tracking the signal, it went past this railing... do you see the residue?" (Players look for the real railing to know where to go next).
+
+16. The "Time Travel" Look (Hook C) Upload a photo of the current Food Court.
+Mix with: "1980s polaroid filter, retro fashion crowds."
+Goal: If you go with the Foam Phantom, Maya can send "Archival Photos" (generated by Mixboard) of the same location in 1985 to reveal clues that have since been painted over, but the structural shapes remain.
+
+17. The Victory Shot Upload a photo of the Mall Entrance/Exit.
+Mix with: "Parade confetti," "Fireworks," or "News crew van."
+Goal: The final image Maya sends when the game is won.
 
