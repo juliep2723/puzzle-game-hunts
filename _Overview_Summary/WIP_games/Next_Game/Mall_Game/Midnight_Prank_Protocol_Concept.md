@@ -8,23 +8,17 @@
 
 ### The Problem
 
-Lex has been researching the mall's history for a new music video when he discovered something incredible: In the 1980s, a legendary prankster named "The Foam Phantom" worked as a mall engineer and secretly rigged the entire building with an elaborate Rube Goldberg machine. The plan was to create the ultimate prank—10,000 gallons of pink foam erupting from fountains, planters, and hidden vents to turn the mall into a foam party.
+Lex has been researching the mall's history for a new music video when he discovered something incredible: In the 1980s, a legendary prankster named "The Foam Phantom"  and secretly rigged the entire building with an elaborate Rube Goldberg machine. The plan was to create the ultimate prank—10,000 gallons of pink foam erupting from fountains, planters, and hidden vents to turn the mall into a foam party.
 
-The prank was never triggered... until now. While examining the old blueprints, Lex accidentally activated the 40-year-old system. The machine is warming up, and in 60 minutes, the mall will be buried under mountains of pink foam. Lex is trying to trace the original trigger point, but he needs help finding the kill switches scattered throughout the mall.
+The prank was never triggered... until now. While filming his music video and researching the mall's architecture, he accidentally activated the 40-year-old system. The machine is warming up, and in 60 minutes, the mall will be buried under mountains of pink foam. Lex is working on the technical side—trying to find the power source and control systems—but he needs help solving the Phantom's puzzles scattered throughout the mall to try to stop the eruption before it's too late.
 
 ### Your Mission
 
-Maya is frantically texting for help. Lex accidentally triggered the prank while researching the mall's history, and now you need to understand what the Foam Phantom built—and how to stop it—before the foam destroys everything.
+Maya is frantically texting for help. Lex accidentally triggered the prank and is working on the technical side—trying to access control systems and cut power. But the Phantom was a master puzzle-maker. He left clues scattered throughout the mall that need to be solved, and that's where you come in.
 
-The Phantom was a master puzzle-maker. He didn't just rig the mall with foam machines—he left clues scattered throughout, hidden in plain sight. Each clue reveals a piece of the puzzle. Each piece brings you closer to understanding how the prank works and how to stop it.
+Maya is coordinating the puzzle-solving side while Lex handles the technical work. She's found videos and research from Lex's earlier work that show where to look. The Phantom left clues hidden in plain sight throughout the mall. Each puzzle reveals a word—pieces of a message the Phantom left behind. Share everything you discover with Maya over text as she pieces together the clues with you.
 
-**Your journey is backwards:** The foam will flow from its starting point through the mall. But to stop it, you must trace that path in reverse—from where it ends back to where it starts, so that you can stop it before it starts. Follow the clues, understand the Phantom's design, and find the source before it's too late.
-
-**You're collecting words**—pieces of a message the Phantom left behind. Share everything you discover with Maya over text. She's piecing together the clues with you, trying to understand what the Phantom intended. These words hold the key to stopping the prank, but only when you understand what they mean together.
-
-**The Phantom's puzzles are everywhere:** In the paths Lex walked, in the connections between stores, in hidden corners of the mall, in the games people play, in the infrastructure that powers everything. Each puzzle reveals another word. Each word is part of a larger message. And that message will tell you exactly how to stop what the Phantom started 40 years ago.
-
-**Key Understanding:** The Rube Goldberg machine flows through the mall in a specific path. To stop it, you must trace that path backwards—from where it ends back to where it begins. Only by following the prank backwards can you find where it starts and stop it at the source.
+**Your journey is backwards:** To stop the prank, you must trace its path in reverse—from where it ends back to where it starts. Follow the clues, understand the Phantom's design, and find the source before it's too late. These words hold the key to stopping the prank, but only when you understand what they mean together.
 
 ---
 
@@ -41,7 +35,7 @@ Each beat 2-6 reveals one word that forms part of the Phantom's abort phrase: **
 
 #### Beat 2: Following Lex's Path (Word: "FOAM")
 **Mechanic:** Spot the Difference
-- **Setup:** Video shows Lex filming his music video, walking through the mall
+- **Setup:** Maya shares a video from Lex's research—Lex filming his music video, walking through the mall
 - **Mall Action:** Players retrace Lex's footsteps to the same locations shown in video
 - **Mobile Game:** Maya sends spot-the-difference images one at a time - players compare reality to photo and report differences. Maybe in each picture there is a missing or added letter, so 4 images, spelling FOAM one lettr at a time.
 - **Differences Reveal:** "FOAM"
@@ -102,8 +96,8 @@ Each beat 2-6 reveals one word that forms part of the Phantom's abort phrase: **
 **The Abort Phrase:** Players now have all pieces of the Phantom's safety phrase: **"FOAM PHANTOM PRANK ABORT CODE"**
 
 - **Action:** Players share the complete phrase "FOAM PHANTOM PRANK ABORT CODE" plus the 3-digit Sudoku code with Maya
-- **Maya's Response:** Confirms phrase is correct, explains this is the Phantom's safety code
-- **Resolution:** Maya uses the phrase + code to remotely deactivate the prank system (or directs players to location where they can enter it)
+- **Maya's Response:** Confirms phrase is correct, explains this is the Phantom's safety code, shares it with Lex
+- **Resolution:** Lex uses the phrase + code to deactivate the prank system at the control point he's been working on
 - **Success:** Prank is stopped, foam machine powers down, mall is saved
 
 #### Why This Works:
