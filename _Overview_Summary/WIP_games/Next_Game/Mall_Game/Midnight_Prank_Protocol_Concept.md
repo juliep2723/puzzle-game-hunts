@@ -69,7 +69,7 @@ Each beat 2-6 reveals one word that forms part of the Phantom's abort phrase: **
 - **Mall Action:** Players choose and play a real game (cornhole, Connect 4, or Jenga), report winner, share photo
 - **Maya's Response:** Funny/quirky response about the game result
 - **Unlock:** This unlocks access to next puzzle (Maze puzzle)
-- **Word Reveals:** The word **"ABORT"** 
+- **Word Reveals within the Maze puzzle:** They read their way out of the puzzle to get the word **"ABORT"**. The maze may say something like "the next word The Foam Phantom is 'Abort'" - something like that. 
 - **Interim Success Video:** Shows foam reaching critical point, Rube Goldberg chain nearly complete
 - **Word Collection:** Players share "ABORT" with Maya over text
 - **Created With:** Either Julie creates png of the puzzle for Maya to share in text for them to read their way out of the maze, or Kai creates in-browser game version where they trace with hands. Either would work, but has to be big enough on screen - I haven't played a maze game with hand in an app, so should discuss.
@@ -89,7 +89,7 @@ Each beat 2-6 reveals one word that forms part of the Phantom's abort phrase: **
 
 ---
 
-### The Super Puzzle (After Beat 6, Before Beat 7)
+### Beat 7: The Super Puzzle 
 
 **All 5 Words Collected:** "FOAM" "PHANTOM" "PRANK" "ABORT" "CODE"
 
@@ -97,7 +97,7 @@ Each beat 2-6 reveals one word that forms part of the Phantom's abort phrase: **
 
 - **Action:** Players share the complete phrase "FOAM PHANTOM PRANK ABORT CODE" plus the 3-digit Sudoku code with Maya
 - **Maya's Response:** Confirms phrase is correct, explains this is the Phantom's safety code, shares it with Lex
-- **Resolution:** Lex uses the phrase + code to deactivate the prank system at the control point he's been working on
+- **Video Reveal:** Lex uses the phrase + code to deactivate the prank system at the control point he's been working on
 - **Success:** Prank is stopped, foam machine powers down, mall is saved
 
 #### Why This Works:
