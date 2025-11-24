@@ -199,7 +199,7 @@
   - Or other text in area
 - [ ] **Maya Instructions:** How Maya guides players to read clues
 
-### Beat 6: Sudoku Puzzle - answer 3-digit code
+### Beat 6: Sudoku Puzzle - answer 3-digit codee
 - [ ] **Puzzle Design:** Standard sudoku grid
 - [ ] **Difficulty Level:** Appropriate for target age
 - [ ] **Solution:** 3-digit code extraction method

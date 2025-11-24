@@ -8,7 +8,7 @@
 
 ### The Problem
 
-Lex has been researching the mall's history for a new music video when he discovered something incredible: In the 1980s, a legendary prankster named "The Foam Phantom"  and secretly rigged the entire building with an elaborate Rube Goldberg machine. The plan was to create the ultimate prank—10,000 gallons of pink foam erupting from fountains, planters, and hidden vents to turn the mall into a foam party.
+Lex has been researching the mall's history for a new music video when he discovered something incredible: In the earlly 1980s, a legendary prankster named "The Foam Phantom"  and secretly rigged the entire building with an elaborate Rube Goldberg machine. The plan was to create the ultimate prank—10,000 gallons of pink foam erupting from fountains, planters, and hidden vents to turn the mall into a foam party.
 
 The prank was never triggered... until now. While filming his music video and researching the mall's architecture, he accidentally activated the 40-year-old system. The machine is warming up, and in 60 minutes, the mall will be buried under mountains of pink foam. Lex is working on the technical side—trying to find the power source and control systems—but he needs help solving the Phantom's puzzles scattered throughout the mall to try to stop the eruption before it's too late.
 
