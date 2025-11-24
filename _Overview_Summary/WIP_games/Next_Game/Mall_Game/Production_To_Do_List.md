@@ -75,10 +75,10 @@
 ## 2. MALL PHOTOS NEEDED
 
 ### For Spot-the-Difference (Beat 2)
-- [ ] Location 1: (specific location from Lex's path video)
-- [ ] Location 2: (specific location from Lex's path video)
-- [ ] Location 3: (specific location from Lex's path video)
-- [ ] Location 4: (specific location from Lex's path video)
+- [ ] Location 1: (specific location from Lex's path video) - for F
+- [ ] Location 2: (specific location from Lex's path video) - for O
+- [ ] Location 3: (specific location from Lex's path video) - for A
+- [ ] Location 4: (specific location from Lex's path video) - for M
 - [ ] **Note:** Photos should match angles from Lex's video for comparison
 
 ### For Word Search Store Identification (Beat 3)
@@ -90,34 +90,35 @@
 - [ ] Directory board photos (for store name verification)
 
 ### For Planet Table (Beat 4)
-- [ ] Museum of Science planet table (Mars station) - full view
-- [ ] Close-up of planet distance information
-- [ ] Close-up of location names (South Station, etc.)
+- [x] Museum of Science planet table (Mars station) - full view
+- [x] Close-up of planet distance information
+- [x] Close-up of location names (South Station, etc.)
 - [ ] Surrounding area context (2nd floor location)
 
 ### For Food Court Games (Beat 5)
-- [ ] Cornhole boards area
-- [ ] Connect Four game area
-- [ ] Jenga stack area
-- [ ] Overall food court context
+- [x] Cornhole boards area
+- [x] Connect Four game area
+- [x] Jenga stack area
+- [x] Overall food court context
 
 ### For Pipes Location (Beat 6)
-- [ ] Pipes/ducts area near food court (on way to elevator)
-- [ ] Close-up of pipe labels (NATURAL GAS, EXHAUST, SUPPLY AIR, etc.)
-- [ ] Ceiling/vent area showing pathway
-- [ ] Surrounding context for acrostic puzzle
+- [x] Pipes/ducts area near food court (on way to elevator)
+- [x] Close-up of pipe labels (NATURAL GAS, EXHAUST, SUPPLY AIR, etc.)
+- [x] Ceiling/vent area showing pathway
+- [x] Surrounding context for acrostic puzzle
+- [ ] Surrounding context for video creation
 
 ### For Video Backgrounds/Overlays
 - [ ] Food court area (for multiple interim videos)
-- [ ] Store corridor areas
-- [ ] Elevator/escalator areas
-- [ ] Any other locations where videos overlay
+- [ ] Store corridor areas - need a list
+- [ ] Elevator/escalator areas - need a list
+- [ ] Any other locations where videos overlay - need a list
 
 ---
 
 ## 3. PUZZLES
 
-### Beat 2: Spot-the-Difference Images
+### Beat 2: Spot-the-Difference Images - answer FOAM
 - [ ] **Image 1:** Reveals letter "F"
   - Location: (specific)
   - Difference: (missing/added letter or element)
@@ -133,11 +134,12 @@
 - [ ] **Creation Method:** AI image generation or photo editing
 - [ ] **Note:** Images should be based on actual mall photos for accuracy
 
-### Beat 3: Word Search Puzzle
+### Beat 3: Word Search Puzzle - answer PHANTOM
 - [ ] **Store List:** Final list of stores to include in word search
   - Stores with fruit associations
   - Stores with royal motifs
   - Stores matching Cambridgeside mural items
+  - more stores?
 - [ ] **Puzzle Design:** Word search grid layout
   - Store names placed in grid
   - Remaining letters spell "PHANTOM"
@@ -150,7 +152,7 @@
   - Validation responses
   - Progressive clue escalation
 
-### Beat 4: Planet Table Cipher
+### Beat 4: Planet Table Cipher - answer PRANK
 - [ ] **5 Questions:** Questions Maya asks about planet distances
   - Question 1: (planet + location)
   - Question 2: (planet + location)
@@ -174,7 +176,7 @@
   - How Maya confirms correct answers
   - How Maya reveals each letter
 
-### Beat 5: Maze Puzzle
+### Beat 5: Maze Puzzle - answer Abort
 - [ ] **Maze Design:** Create maze with word "ABORT" embedded
   - Maze path leads to word
   - Text: "The next word The Foam Phantom is 'Abort'" or similar
@@ -197,7 +199,7 @@
   - Or other text in area
 - [ ] **Maya Instructions:** How Maya guides players to read clues
 
-### Beat 6: Sudoku Puzzle
+### Beat 6: Sudoku Puzzle - answer 3-digit code
 - [ ] **Puzzle Design:** Standard sudoku grid
 - [ ] **Difficulty Level:** Appropriate for target age
 - [ ] **Solution:** 3-digit code extraction method
