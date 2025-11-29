@@ -46,12 +46,21 @@ Each beat 2-6 reveals one word that forms part of the Phantom's abort phrase: **
 #### Beat 3: Hidden Connections (Word: "PHANTOM")
 **Mechanic:** Word Search Puzzle
 - **Setup:** Maya explains they need to find stores with common themes
-- **Mall Action:** Players identify stores matching criteria (fruits, royal motifs, items from Cambridgeside mural) through Telegram exchange with Maya
-- **Mobile Game:** Maya shares link to word search puzzle - players find store names in grid, remaining letters spell message
-- **Message Reveals:** The word **"PHANTOM"**
+- **Mall Action:** Players identify stores matching criteria through Telegram exchange with Maya:
+  - Stores that are fruit
+  - Stores with royal names or imagery
+  - Stores with script writing in their name
+- **Store Answers:** Apple, Mango, Queenia, Pandora, The, Threading, Spa, Oriental Relaxation, Le, Boutique, Instyle, Joselin
+- **Special Hint:** If players miss Pandora, Maya hints about royal imagery (crown on Pandora logo)
+- **Mobile Game:** Maya shares link to word search puzzle after all stores identified
+  - Word list visible on puzzle screen (all 12 store names)
+  - Players find store names in grid
+  - After all words found: Screen grays out most content, highlights remaining letters
+  - Remaining letters spell: **"PHANTOM"**
+- **Message Reveals:** The word **"PHANTOM"** (players share hidden message back with Maya)
 - **Interim Success Video:** Shows another section of Rube Goldberg chain, foam flowing through different part of mall
 - **Word Collection:** Players share "PHANTOM" with Maya over text
-- **Created With:** Julie create clues by hand and puzzle design by hand, Kai create word search & remaining letter discloser in browser-game. The finding the words mechanic would be done with Maya over Telegram Text exchange (e.g. they're given store names to find, and she validates and gives clues until all stores were correctly named. That way in the app, the list could be included on the screen, because Maya gives the link to the game only after all store names were discovered by players). Kai to create word search mechanism & code reveal for in browser.
+- **Created With:** Julie creates store finding instructions, Kai creates word search browser game with gray-out mechanism for hidden message reveal
 
 #### Beat 4: Decoding the Phantom's Clues (Word: "PRANK")
 **Mechanic:** Planet Table Cipher
