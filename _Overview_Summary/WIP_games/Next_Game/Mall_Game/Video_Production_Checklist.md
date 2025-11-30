@@ -2,6 +2,8 @@
 
 *Detailed bullets for starting images and action shots for Nanobanana video creation*
 
+**IMPORTANT TONE NOTE:** All Rube Goldberg chain videos (Beats 2-6 interim videos) should convey BAD NEWS and DANGER, not celebration. The chain activating is terrifying - it means the mall is closer to destruction. Maya's messages express urgency and concern, not excitement about progress. The foam spreading = bad news, not good news.
+
 ---
 
 ## Beat 1: Introduction Video (Maya)
@@ -172,6 +174,34 @@
   - Can use actual mall photos you have
 
 ### Action Shots:
+- **Shot 1 (10-15 sec):**
+  - Lex walking down corridor from food court
+  - Points toward pipes/ducts area
+  - Shows direction to players
+  - **Optional dialogue:** "The pipes are this way - look up!" or just pointing gesture
+  - Helpful guide video
+
+---
+
+## Beat 6: Lex Walking to Pipes Video
+**Format:** Landscape or Portrait (TBD)  
+**Duration:** 10-15 seconds  
+**When Shown:** Beat 6 start, when players need to find pipes location
+
+### Starting Image Bullets:
+- **Lex character:**
+  - Young man, determined expression
+  - Casual clothing (working on technical side)
+  - Slightly nervous but focused
+  - Brother to Maya
+
+- **Mall corridor:**
+  - Food court area transitioning to corridor
+  - Path toward elevator/pipes area
+  - Mall hallway setting
+  - Can use actual mall photos you have
+
+### Action Shots & Lip Sync:
 - **Shot 1 (10-15 sec):**
   - Lex walking down corridor from food court
   - Points toward pipes/ducts area
