@@ -110,14 +110,20 @@
 
 ## 🎬 BEAT 6: Tracing the Power Source (Word: "CODE" + 3-digit code)
 
-**Summary of text and video**: Maya explains that players need to find where the prank STARTS - the source. The Foam Phantom's machine flows backwards through the mall, ending at the food court, but it starts somewhere else. Maya shares a video of Lex walking down a corridor and pointing to the pipes location. Players watch the video and navigate to the pipes/ducts area near the food court, on the way to the elevator. When players confirm they're at the pipes location, Maya shares a Google Drive image link containing visual clues.
+**Summary of text and video**: Maya explains that players need to find where the prank STARTS - the source. The Foam Phantom's machine flows backwards through the mall, ending at the food court, but it starts somewhere else. Maya shares a video of Lex walking down a corridor and pointing to the pipes location. Players watch the video and navigate to the pipes/ducts area near the food court, on the way to the elevator. When players confirm they're at the pipes location, Maya asks them to look up at the pipe labels.
 
-**Puzzle 1**: Code Puzzle (Reading "CODE")
-- Image contains visual clues leading to letters C, O, D, E
-- Clues: [PLACEHOLDER_CLUE_1], [PLACEHOLDER_CLUE_2], [PLACEHOLDER_CLUE_3] (to be determined)
+**Puzzle 1**: Pipe Label Puzzle (Reading "CODE")
+- Find pipe label with green sticker that ends with "HIGH ZONE"
+- Read the whole label to Maya (must include "cold water high zone")
+- Maya asks players to focus on just "COLD WATER"
+- Maya provides number-pairs to extract letters:
+  - First number = which word (1 = COLD, 2 = WATER)
+  - Second number = which letter in that word
+  - Number-pairs: 1-1, 1-2, 1-4, 2-4
+- Extract letters: 1-1 = C, 1-2 = O, 1-4 = D, 2-4 = E
 - Reveals word "CODE"
 
-**Summary of post-puzzle 1 text messages**: Maya sends a vents pathway video showing the complete Rube Goldberg path traveling through vents - this reveals the terrifying full scope of the prank. Maya then shares a sudoku puzzle link.
+**Summary of post-puzzle 1 text messages**: Maya confirms "CODE" and tells players to text it back. Maya sends a vents pathway video showing the complete Rube Goldberg path traveling through vents - this reveals the terrifying full scope of the prank. Maya then shares a sudoku puzzle link in the same message.
 
 **Puzzle 2**: Sudoku Puzzle (3-digit code)
 - Solve sudoku puzzle: https://mall-sudoku.vercel.app/

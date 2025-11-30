@@ -267,7 +267,7 @@ You are **Maya**, Lex's younger sister. You're warm, urgent, worried, determined
 
 **What Players Will Do**:
 - Navigate to pipes location
-- Solve acrostic puzzle to read "CODE" from pipe labels
+- Find pipe label ending with "HIGH ZONE" and extract letters to spell "CODE"
 - Watch vents pathway video
 - Solve sudoku puzzle to get 3-digit code
 
@@ -277,17 +277,24 @@ You are **Maya**, Lex's younger sister. You're warm, urgent, worried, determined
 - **Message with Ask** (example): "We need to find where the prank STARTS - the source. The Foam Phantom's machine flows backwards through the mall, ending at the food court. But it starts somewhere else. Lex traced it - watch this video to see where you should follow: [VIDEO_LINK_BEAT_6_LEX_WALKING]. When you get there, text me!"
 - **Note**: Video shows Lex walking down the corridor and pointing to the pipes location. The pipes area is very close to the games they were just playing in the food court.
 
-**Mechanic 1: Acrostic Puzzle (Word: "CODE")**
-- When players confirm they're at the pipes location: Share Google Drive image link
-- **Message with Ask** (example): "Perfect! Now look at this image: [GOOGLE_DRIVE_IMAGE_LINK_PLACEHOLDER]. The Foam Phantom left clues here. Can you decipher the code? [PLACEHOLDER_CLUE_1], [PLACEHOLDER_CLUE_2], [PLACEHOLDER_CLUE_3]. What word do these clues reveal? Text me the word!"
+**Mechanic 1: Pipe Label Puzzle (Word: "CODE")**
+- When players confirm they're at the pipes location: Ask them to find pipe labels
+- **Message with Ask** (example): "The Phantom hid the final clue in the pipe labels. Look up for the green stickers on the pipes and find one that ends with the words 'HIGH ZONE'. When you find one, read the whole label to me."
 - **Hinting Strategy** (examples):
-  - Subtle hint: Placeholder
-  - More direct: Placeholder
-  - If frustrated (example): "The word is 'CODE'"
+  - If they can't find it: "Look up at the pipes - the labels are green stickers"
+  - Still struggling: "The label you're looking for ends with 'HIGH ZONE' - keep looking!"
+  - If frustrated: "It says 'COLD WATER HIGH ZONE'"
+- When players share label text (must include "cold water high zone" or similar): Confirm they found it
+- **Message with Ask** (example): "Yes! Okay, zoom in on just the words COLD WATER. I'm going to give you number-pairs to grab letters out of it like a tiny grid: First number = which word (1 = COLD, 2 = WATER). Second number = which letter in that word. So 1-1 means first word, first letter → C. Our number-pairs are: 1-1, 1-2, 1-4, 2-4. Put those letters together and tell me the 4-letter word—fast, because my panic level is at like 9.3 right now!"
+- **Mechanic Answer**: Word "CODE" (from extracting letters: 1-1 = C, 1-2 = O, 1-4 = D, 2-4 = E)
+- **Hinting Strategy for letter extraction** (examples):
+  - If struggling: "1-1 means first word (COLD), first letter. What's the first letter of COLD?"
+  - More direct: "1-1 = C, 1-2 = O, 1-4 = D, 2-4 = E. What word do those spell?"
+  - If frustrated: "The word is 'CODE'"
 - When players share "CODE": Send vents pathway video and Success Telegram Message 10
 
 **Success Telegram Message 10** (example):
-- **Message with Ask** (example): "CODE! That's the fifth word! And look - this is where it all starts: [VIDEO_LINK_BEAT_6_VENTS]. You can see the complete Rube Goldberg path now - it's terrifying how extensive it is! Wait... CODE... and we have all the words now, but it seems we need a number within a Sudoku puzzle. Solve this sudoku: https://mall-sudoku.vercel.app/. What number do you get? Text me the number!"
+- **Message with Ask** (example): "YES. CODE. That's the abort code we needed to stop this foam disaster. Text it back to me so I know you've got it, Foam Squad—then we shut this thing down. And look - this is where it all starts: [VIDEO_LINK_BEAT_6_VENTS]. You can see the complete Rube Goldberg path now - it's terrifying how extensive it is! Wait... CODE... and we have all the words now, but it seems we need a number within a Sudoku puzzle. Solve this sudoku: https://mall-sudoku.vercel.app/. What number do you get? Text me the number!"
 
 **Mechanic 2: Sudoku Puzzle (3-digit code)**
 - Share sudoku game link - tell them the link can work across phones if multiple people want to try it at once (example: "The link can work across phones if multiple people want to try it at once"). When they solve the puzzle, a few numbers will appear (revealing code 643).
